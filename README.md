@@ -1,16 +1,21 @@
-## Hi there 👋
+## Привет, Я основатель MrFaiergm Studios !
+честно сказать не знаю даже что и писать хаха, но попробовать стоит
 
-<!--
-**mrfaiergmstudios-sudo/mrfaiergmstudios-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я инди-разработчик игр, создатель "Plug & Play" (и не только) плагинов для Minecraft!
 
-Here are some ideas to get you started:
+### 👨‍💻Немного обо мне:
+- 🔭 **Сейчас работаю над:** Созданием каких либо плагинов для майнкрафта, планирую сделать мини игру "Plug & Play" для игры с друзьями!
+- 🌱 **Активно изучаю:** продвинутую java для написания плагинов, немного c++ и в будущем продолжу изучать GdScript и c# для создания каких либо игр
+- 🧠 **Увлекаюсь:** Музыкой и иногда снимаю видео ролики на свой ютуб канал
+- 🎮 **Мой движок для игр:** Godot Engine (GDScript), Unity (c#), и в целом написанием игр не используя движки но это очень редко.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Мои скажем так иснтрументы 
+* **Языки:** Java, Python, GDScript, немного C#, и luaScript мимо меня не прошел 
+* **Инструменты & API:** Spigot API,  и немного SQLite, в скором времени планирую портировать плагина как и на Spigot(APi) так и на Paper(API)
+* **Проекты:** из плагинов - Prestart Comand, Sit_plugin, и в ксором времени мини игры (Plug & Play) Для того чтобы просто поиграть с друзьями 
+
+### 📫 Как со мной связаться:
+-  **Modrinth:** [Мои плагины](https://modrinth.com/user/MrFaiergm)
+-  **Telegram:** [Мой канал/профиль](t.me/MrFaiergmTg)
+-   **Discord** [Сообщество](https://discord.gg/zMTsCEADyR)
+-   **Vk** [сообщество](https://vk.com/mrfaiergmstudios)
