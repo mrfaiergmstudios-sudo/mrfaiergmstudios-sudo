@@ -19,6 +19,6 @@
 
 ### 📫 Как со мной связаться:
 -  **Modrinth:** [Мои плагины](https://modrinth.com/user/MrFaiergm)
--  **Telegram:** [Мой канал/профиль](t.me/MrFaiergmTg)
+-  **Telegram:** [Мой канал](t.me/MrFaiergmTg)
 -   **Discord** [Сообщество](https://discord.gg/zMTsCEADyR)
 -   **Vk** [сообщество](https://vk.com/mrfaiergmstudios)
