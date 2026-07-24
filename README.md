@@ -28,3 +28,4 @@
 -  **Telegram:** [Мой канал](t.me/MrFaiergmTg)
 -   **Discord** [Сообщество](https://discord.gg/zMTsCEADyR)
 -   **Vk** [сообщество](https://vk.com/mrfaiergmstudios)
+-   **itch_io**[Itch.io](https://mrfaiergm-studios.itch.io)
